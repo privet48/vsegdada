@@ -1,0 +1,6 @@
+{
+    "require": {
+        "yidas/codeigniter-rest": "^1.7",
+        "chriskacerguis/codeigniter-restserver": "^3.1"
+    }
+}
